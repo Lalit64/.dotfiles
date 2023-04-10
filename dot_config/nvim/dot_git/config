@@ -6,8 +6,8 @@
 	ignorecase = true
 	precomposeunicode = true
 [remote "origin"]
-	url = https://github.com/LunarVim/Neovim-from-scratch.git
-	fetch = +refs/heads/*:refs/remotes/origin/*
-[branch "master"]
+	url = git@github.com:NvChad/NvChad.git
+	fetch = +refs/heads/v2.0:refs/remotes/origin/v2.0
+[branch "v2.0"]
 	remote = origin
-	merge = refs/heads/master
+	merge = refs/heads/v2.0

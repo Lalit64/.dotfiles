@@ -1,0 +1,193 @@
+Apr 06 21:17 : config: inotify: auto_update was disabled. enable during compilation phase
+Apr 06 21:18 : exception: Failed to open /Users/lalit/.mpd/playlists: No such file or directory
+Apr 07 07:22 : exception: Failed to open /Users/lalit/.mpd/playlists: No such file or directory
+Apr 07 07:23 : exception: Failed to open /Users/lalit/.mpd/playlists: No such file or directory
+Apr 07 07:23 : exception: Failed to open /Users/lalit/.mpd/playlists: No such file or directory
+Apr 07 07:23 : exception: Failed to open /Users/lalit/.mpd/playlists: No such file or directory
+Apr 07 07:23 : exception: Failed to open /Users/lalit/.mpd/playlists: No such file or directory
+Apr 07 07:23 : exception: Failed to open /Users/lalit/.mpd/playlists: No such file or directory
+Apr 07 07:23 : exception: Failed to open /Users/lalit/.mpd/playlists: No such file or directory
+Apr 07 07:23 : exception: Failed to open /Users/lalit/.mpd/playlists: No such file or directory
+Apr 07 07:23 : exception: Failed to open /Users/lalit/.mpd/playlists: No such file or directory
+Apr 07 07:23 : exception: Failed to open /Users/lalit/.mpd/playlists: No such file or directory
+Apr 07 07:23 : exception: Failed to open /Users/lalit/.mpd/playlists: No such file or directory
+Apr 07 07:23 : exception: Failed to open /Users/lalit/.mpd/playlists: No such file or directory
+Apr 07 11:40 : exception: Failed to open /Users/lalit/.mpd/playlists: No such file or directory
+Apr 07 11:40 : update: added /Arden Jones - Gold Plated.mp3
+[src/libmpg123/parse.c:skip_junk():1276] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Apr 07 11:40 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Apr 07 11:40 : update: added Music/Arden Jones - mr. sunshine (Lyric Video).mp3
+Apr 07 11:40 : exception: Failed to open /Users/lalit/.mpd/playlists: No such file or directory
+Apr 07 11:40 : exception: Failed to open /Users/lalit/.mpd/playlists: No such file or directory
+Apr 07 11:40 : exception: Failed to open /Users/lalit/.mpd/playlists: No such file or directory
+Apr 07 11:41 : exception: Failed to open /Users/lalit/.mpd/playlists: No such file or directory
+Apr 07 11:41 : update: removing Music/Arden Jones - mr. sunshine (Lyric Video).mp3
+[src/libmpg123/parse.c:skip_junk():1276] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Apr 07 11:41 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Apr 07 11:41 : update: added /Arden Jones - mr. sunshine (Lyric Video).mp3
+Apr 07 11:41 : exception: Failed to open /Users/lalit/.mpd/playlists: No such file or directory
+Apr 07 11:41 : exception: Failed to open /Users/lalit/.mpd/playlists: No such file or directory
+[src/libmpg123/parse.c:skip_junk():1276] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Apr 07 11:41 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Apr 07 11:41 : exception: Failed to open /Users/lalit/.mpd/playlists: No such file or directory
+Apr 07 11:41 : exception: Failed to open /Users/lalit/.mpd/playlists: No such file or directory
+Apr 07 11:41 : exception: Failed to open /Users/lalit/.mpd/playlists: No such file or directory
+Apr 07 11:41 : exception: Failed to open /Users/lalit/.mpd/playlists: No such file or directory
+Apr 07 11:41 : exception: Failed to open /Users/lalit/.mpd/playlists: No such file or directory
+Apr 07 11:41 : exception: Failed to open /Users/lalit/.mpd/playlists: No such file or directory
+Apr 07 11:41 : exception: Failed to open /Users/lalit/.mpd/playlists: No such file or directory
+Apr 07 11:43 : exception: Failed to open /Users/lalit/.mpd/playlists: No such file or directory
+Apr 07 11:43 : exception: Failed to open /Users/lalit/.mpd/playlists: No such file or directory
+Apr 07 11:44 : exception: Failed to open /Users/lalit/.mpd/playlists: No such file or directory
+Apr 07 11:44 : exception: Failed to open /Users/lalit/.mpd/playlists: No such file or directory
+Apr 07 11:44 : exception: Failed to open /Users/lalit/.mpd/playlists: No such file or directory
+Apr 07 11:44 : exception: Failed to open /Users/lalit/.mpd/playlists: No such file or directory
+Apr 07 11:46 : player: played "Arden Jones - Gold Plated.mp3"
+[src/libmpg123/parse.c:skip_junk():1276] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Apr 07 11:51 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Apr 07 11:51 : exception: Failed to open /Users/lalit/.mpd/playlists: No such file or directory
+Apr 07 11:51 : exception: Failed to open /Users/lalit/.mpd/playlists: No such file or directory
+Apr 07 11:51 : exception: Failed to open /Users/lalit/.mpd/playlists: No such file or directory
+Apr 07 11:51 : exception: Failed to open /Users/lalit/.mpd/playlists: No such file or directory
+Apr 07 11:51 : exception: Failed to open /Users/lalit/.mpd/playlists: No such file or directory
+Apr 07 11:51 : exception: Failed to open /Users/lalit/.mpd/playlists: No such file or directory
+Apr 07 11:51 : exception: Failed to open /Users/lalit/.mpd/playlists: No such file or directory
+Apr 07 11:51 : exception: Failed to open /Users/lalit/.mpd/playlists: No such file or directory
+Apr 07 11:51 : exception: Failed to open /Users/lalit/.mpd/playlists: No such file or directory
+Apr 07 11:51 : exception: Failed to open /Users/lalit/.mpd/playlists: No such file or directory
+Apr 07 11:51 : exception: Failed to open /Users/lalit/.mpd/playlists: No such file or directory
+Apr 07 11:51 : exception: Failed to open /Users/lalit/.mpd/playlists: No such file or directory
+Apr 07 11:51 : exception: Failed to open /Users/lalit/.mpd/playlists: No such file or directory
+Apr 07 11:51 : exception: Failed to open /Users/lalit/.mpd/playlists: No such file or directory
+Apr 07 11:51 : exception: Failed to open /Users/lalit/.mpd/playlists: No such file or directory
+[src/libmpg123/parse.c:skip_junk():1276] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Apr 07 11:51 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Apr 07 11:52 : exception: Failed to open /Users/lalit/.mpd/playlists: No such file or directory
+Apr 07 11:52 : exception: Failed to open /Users/lalit/.mpd/playlists: No such file or directory
+Apr 07 11:52 : exception: Failed to open /Users/lalit/.mpd/playlists: No such file or directory
+Apr 07 11:52 : exception: Failed to open /Users/lalit/.mpd/playlists: No such file or directory
+Apr 07 11:52 : exception: Failed to open /Users/lalit/.mpd/playlists: No such file or directory
+Apr 07 11:52 : exception: Failed to open /Users/lalit/.mpd/playlists: No such file or directory
+Apr 07 11:52 : player: played "Arden Jones - Gold Plated.mp3"
+[src/libmpg123/parse.c:skip_junk():1276] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Apr 07 11:52 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+[src/libmpg123/parse.c:skip_junk():1276] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Apr 07 12:04 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Apr 07 12:04 : exception: Failed to open /Users/lalit/.mpd/playlists: No such file or directory
+Apr 07 14:26 : config: inotify: auto_update was disabled. enable during compilation phase
+Apr 07 14:27 : config: inotify: auto_update was disabled. enable during compilation phase
+Apr 07 14:28 : config: inotify: auto_update was disabled. enable during compilation phase
+Apr 07 14:28 : player: played "Arden Jones - Gold Plated.mp3"
+Apr 07 14:32 : config: inotify: auto_update was disabled. enable during compilation phase
+[src/libmpg123/parse.c:skip_junk():1276] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Apr 07 14:40 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Apr 07 14:40 : player: played "Arden Jones - Gold Plated.mp3"
+Apr 07 14:40 : config: inotify: auto_update was disabled. enable during compilation phase
+Apr 07 14:41 : player: played "Arden Jones - Gold Plated.mp3"
+Apr 07 14:41 : config: inotify: auto_update was disabled. enable during compilation phase
+[src/libmpg123/parse.c:skip_junk():1276] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Apr 07 14:43 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Apr 07 14:46 : player: played "Arden Jones - mr. sunshine (Lyric Video).mp3"
+[src/libmpg123/parse.c:skip_junk():1276] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Apr 07 14:47 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Apr 07 14:55 : player: played "Arden Jones - Gold Plated.mp3"
+[src/libmpg123/parse.c:skip_junk():1276] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Apr 07 15:22 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Apr 07 15:24 : exception: Failed to open /Users/lalit/.mpd/playlists: No such file or directory
+Apr 07 15:24 : exception: Failed to open /Users/lalit/.mpd/playlists: No such file or directory
+Apr 07 15:24 : exception: Failed to open /Users/lalit/.mpd/playlists: No such file or directory
+Apr 07 15:24 : exception: Failed to open /Users/lalit/.mpd/playlists: No such file or directory
+Apr 07 15:24 : exception: Failed to open /Users/lalit/.mpd/playlists: No such file or directory
+Apr 07 15:26 : exception: Failed to open /Users/lalit/.mpd/playlists: No such file or directory
+Apr 07 15:26 : exception: Failed to open /Users/lalit/.mpd/playlists: No such file or directory
+Apr 07 15:26 : exception: Failed to open /Users/lalit/.mpd/playlists: No such file or directory
+Apr 07 15:26 : exception: Failed to open /Users/lalit/.mpd/playlists: No such file or directory
+Apr 07 15:26 : exception: Failed to open /Users/lalit/.mpd/playlists: No such file or directory
+Apr 07 15:26 : exception: Failed to open /Users/lalit/.mpd/playlists: No such file or directory
+Apr 07 15:26 : player: played "Arden Jones - Gold Plated.mp3"
+Apr 07 15:26 : config: inotify: auto_update was disabled. enable during compilation phase
+Apr 07 15:26 : config: option 'auto_resample' on line 33 was not recognized
+Apr 07 15:26 : config: option 'use_mmap' on line 34 was not recognized
+Apr 07 15:26 : player: played "Arden Jones - Gold Plated.mp3"
+Apr 07 15:27 : exception: Failed to open /Users/lalit/.mpd/playlists: No such file or directory
+Apr 07 15:27 : exception: Failed to open /Users/lalit/.mpd/playlists: No such file or directory
+Apr 07 15:27 : exception: Failed to open /Users/lalit/.mpd/playlists: No such file or directory
+Apr 07 15:30 : player: played "Arden Jones - Gold Plated.mp3"
+[src/libmpg123/parse.c:skip_junk():1276] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Apr 07 15:30 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Apr 07 15:30 : exception: Failed to open audio output
+Apr 07 15:33 : exception: Failed to open /Users/lalit/.mpd/playlists: No such file or directory
+Apr 07 15:33 : player: played "Arden Jones - mr. sunshine (Lyric Video).mp3"
+[src/libmpg123/parse.c:skip_junk():1276] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Apr 07 15:33 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Apr 07 15:33 : exception: Failed to open /Users/lalit/.mpd/playlists: No such file or directory
+Apr 07 15:33 : exception: Failed to open /Users/lalit/.mpd/playlists: No such file or directory
+Apr 07 15:33 : exception: Failed to open /Users/lalit/.mpd/playlists: No such file or directory
+Apr 07 15:33 : exception: Failed to open /Users/lalit/.mpd/playlists: No such file or directory
+Apr 07 15:33 : exception: Failed to open /Users/lalit/.mpd/playlists: No such file or directory
+Apr 07 15:35 : exception: Failed to open /Users/lalit/.mpd/playlists: No such file or directory
+Apr 07 15:35 : exception: Failed to open /Users/lalit/.mpd/playlists: No such file or directory
+Apr 07 15:35 : exception: Failed to open /Users/lalit/.mpd/playlists: No such file or directory
+Apr 07 15:35 : exception: Failed to open /Users/lalit/.mpd/playlists: No such file or directory
+Apr 07 15:35 : exception: Failed to open /Users/lalit/.mpd/playlists: No such file or directory
+Apr 07 15:36 : player: played "Arden Jones - mr. sunshine (Lyric Video).mp3"
+[src/libmpg123/parse.c:skip_junk():1276] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Apr 07 15:38 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Apr 07 15:40 : exception: Failed to open /Users/lalit/.mpd/playlists: No such file or directory
+Apr 07 15:40 : exception: Failed to open /Users/lalit/.mpd/playlists: No such file or directory
+Apr 07 15:40 : exception: Failed to open /Users/lalit/.mpd/playlists: No such file or directory
+Apr 07 15:40 : exception: Failed to open /Users/lalit/.mpd/playlists: No such file or directory
+Apr 07 15:40 : exception: Failed to open /Users/lalit/.mpd/playlists: No such file or directory
+Apr 07 15:40 : exception: Failed to open /Users/lalit/.mpd/playlists: No such file or directory
+Apr 07 15:41 : player: played "Arden Jones - mr. sunshine (Lyric Video).mp3"
+Apr 07 15:43 : exception: Failed to open /Users/lalit/.mpd/playlists: No such file or directory
+Apr 07 15:43 : exception: Failed to open /Users/lalit/.mpd/playlists: No such file or directory
+Apr 07 15:43 : exception: Failed to open /Users/lalit/.mpd/playlists: No such file or directory
+Apr 07 15:43 : exception: Failed to open /Users/lalit/.mpd/playlists: No such file or directory
+Apr 07 15:43 : exception: Failed to open /Users/lalit/.mpd/playlists: No such file or directory
+Apr 07 15:43 : exception: Failed to open /Users/lalit/.mpd/playlists: No such file or directory
+Apr 07 15:44 : player: played "Arden Jones - Gold Plated.mp3"
+[src/libmpg123/parse.c:skip_junk():1276] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Apr 07 15:44 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Apr 07 15:47 : player: played "Arden Jones - mr. sunshine (Lyric Video).mp3"
+Apr 07 15:49 : player: played "Arden Jones - Gold Plated.mp3"
+[src/libmpg123/parse.c:skip_junk():1276] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Apr 07 15:49 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Apr 07 15:52 : player: played "Arden Jones - mr. sunshine (Lyric Video).mp3"
+Apr 07 15:54 : exception: Failed to open /Users/lalit/.mpd/playlists: No such file or directory
+Apr 07 15:55 : player: played "Arden Jones - Gold Plated.mp3"
+[src/libmpg123/parse.c:skip_junk():1276] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Apr 07 15:55 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Apr 07 15:57 : player: played "Arden Jones - mr. sunshine (Lyric Video).mp3"
+Apr 07 15:57 : config: inotify: auto_update was disabled. enable during compilation phase
+Apr 07 15:57 : config: option 'auto_resample' on line 33 was not recognized
+Apr 07 15:57 : config: option 'use_mmap' on line 34 was not recognized
+[src/libmpg123/parse.c:skip_junk():1276] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Apr 07 15:57 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Apr 07 15:58 : player: played "Arden Jones - mr. sunshine (Lyric Video).mp3"
+Apr 07 16:03 : player: played "Arden Jones - Gold Plated.mp3"
+[src/libmpg123/parse.c:skip_junk():1276] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Apr 07 16:03 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Apr 07 21:04 : player: played "Arden Jones - mr. sunshine (Lyric Video).mp3"
+Apr 07 21:07 : player: played "Arden Jones - Gold Plated.mp3"
+[src/libmpg123/parse.c:skip_junk():1276] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Apr 07 21:07 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Apr 07 21:10 : player: played "Arden Jones - mr. sunshine (Lyric Video).mp3"
+Apr 07 21:12 : player: played "Arden Jones - Gold Plated.mp3"
+[src/libmpg123/parse.c:skip_junk():1276] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Apr 07 21:13 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+[src/libmpg123/parse.c:skip_junk():1276] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Apr 07 21:14 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Apr 07 21:17 : player: played "Arden Jones - mr. sunshine (Lyric Video).mp3"
+Apr 07 21:20 : player: played "Arden Jones - Gold Plated.mp3"
+[src/libmpg123/parse.c:skip_junk():1276] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Apr 07 21:37 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Apr 07 21:40 : player: played "Arden Jones - mr. sunshine (Lyric Video).mp3"
+Apr 07 21:43 : player: played "Arden Jones - Gold Plated.mp3"
+[src/libmpg123/parse.c:skip_junk():1276] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Apr 07 21:46 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Apr 07 21:49 : player: played "Arden Jones - mr. sunshine (Lyric Video).mp3"
+Apr 09 09:39 : player: played "Arden Jones - Gold Plated.mp3"
+Apr 09 21:17 : player: played "Arden Jones - Gold Plated.mp3"
+[src/libmpg123/parse.c:skip_junk():1276] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Apr 10 06:58 : mpg123: mpg123_getformat() failed: A generic mpg123 error.

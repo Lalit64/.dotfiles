@@ -1,0 +1,32 @@
+{
+  "VSCodeNotion.accessToken": "",
+  "VSCodeNotion.allowEmbeds": false,
+  "VSCodeNotion.api": "https://notion-api.splitbee.io/",
+  "VSCodeNotion.fontFamily": "'JetBrains mono', sans-serif",
+  "VSCodeNotion.fontSize": 14,
+  "VSCodeNotion.lineHeight": 1.5,
+  "editor.accessibilitySupport": "off",
+  "editor.fontFamily": "JetBrainsMono NF, Monaco, 'Courier New', monospace",
+  "editor.fontLigatures": true,
+  "editor.fontSize": 13,
+  "svelte.enable-ts-plugin": true,
+  "svelte.plugin.svelte.note-new-transformation": false,
+  "terminal.integrated.cursorStyle": "underline",
+  "terminal.integrated.env.osx": {
+    "FIG_NEW_SESSION": "1"
+  },
+  "terminal.integrated.fontFamily": "JetBrainsMono Nerd Font",
+  "terminal.integrated.fontSize": 13,
+  "workbench.colorTheme": "Catppuccin Mocha",
+  "editor.cursorBlinking": "smooth",
+  "editor.cursorSmoothCaretAnimation": "on",
+  "cmake.configureOnOpen": true,
+  "workbench.list.smoothScrolling": true,
+  "editor.smoothScrolling": true,
+  "terminal.integrated.smoothScrolling": true,
+  "diffEditor.ignoreTrimWhitespace": false,
+  "ruby.useLanguageServer": true,
+  "workbench.iconTheme": "material-icon-theme",
+  "gitlens.codeLens.enabled": false,
+  "tailwindCSS.emmetCompletions": true, // use the internal language server (see below)
+}

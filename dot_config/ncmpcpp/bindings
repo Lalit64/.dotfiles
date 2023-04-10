@@ -1,0 +1,26 @@
+def_key "space"
+  pause
+
+def_key "1"
+  show_playlist
+
+def_key "2"
+  show_visualizer
+
+def_key "3"
+  show_clock
+
+def_key "4"
+  show_browser
+
+def_key "5"
+  toggle_media_library_columns_mode
+
+def_key "6"
+  show_playlist_editor
+
+def_key "7"
+  show_tag_editor
+
+def_key "8"
+  show_visualizer
